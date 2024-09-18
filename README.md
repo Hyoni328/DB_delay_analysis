@@ -4,7 +4,7 @@
 This project was run in Sep 2024 as part of the final project at the WBS CODING SCHOOL Data Analytics Bootcamp.
 
 This project analyzes train delays in Deutsche Bahn’s local and regional services over a one-week period (08. Jul - 14. Jul). 
-The analysis aims to identify patterns and causes of delays, provide actionable recommendations for improving punctuality, and present the findings in a concise 5-minute presentation.
+The analysis aims to identify patterns and causes of delays, provide actionable recommendations for improving punctuality, and present the findings in a concise 5-minute presentation to non-tech audience.
 
 ## Data
 Initially, I planned to collect data using the Deutsche Bahn API. However, due to time constraints (I had only 1 week to complete the project) and difficulties with the API, I was unable to collect the data on my own. Instead, I used a dataset from Kaggle for the analysis. 
