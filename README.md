@@ -24,7 +24,7 @@ I plan to continue this project and will attempt to collect data using the Deuts
 - Python: Request, Pandas
 - MySQL
 - Tableau
-- Canva
+- Google Slide
 
 
 ## Key Learning
